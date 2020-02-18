@@ -98,8 +98,10 @@
 ### Parte III - Prueba en Javascript (Entregar el código): 
 
 ##### 1. En un salón se tienen las notas de 14 alumnos; de los cuales se desea saber cuál fue el promedio de todas las notas, cuál fue la nota mayor y la nota menor. Así como la cantidad de aprobados en el curso (Para Aprobar la asignatura se requiere de una nota mayor o igual a 3.0). 
+> `exercises/students.js`
 
 ##### 2. Simular 20 tiradas de dos dados y contar las veces que entre los dos suman 10.
+> `exercises/domino.js`
 
 ##### 3. Escribir un algoritmo que muestre todas las fichas de dominó, sin repetir. 
 
