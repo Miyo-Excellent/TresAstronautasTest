@@ -27,7 +27,7 @@
 ##### 7. ¿Cómo contaría usted el número de consonantes en una cadena de texto?
     Sugerencia: Escriba las respuestas como pseudocódigo para claridad..
 
-> La forma más fácil y sencilla es utilizar expresiones regulares, /(a|e|i|o|u)/i
+> La forma más fácil y sencilla es utilizar expresiones regulares, `/(a|e|i|o|u)/i`
 
 ### Parte II - Prueba conceptual:
 
